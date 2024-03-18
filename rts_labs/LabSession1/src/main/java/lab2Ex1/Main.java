@@ -4,7 +4,7 @@ public class Main {
 
     private static final int noOfThreads=6;
 
-    private static final int processorLoad=100000000;
+    private static final int processorLoad=10000000;
 
     public static void main(String args[]){
 
