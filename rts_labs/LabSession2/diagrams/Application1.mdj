@@ -6505,8 +6505,8 @@
 										"$ref": "AAAAAAGOUkAwpfUrmto="
 									},
 									"font": "Arial;13;0",
-									"left": 420,
-									"top": 463,
+									"left": 433,
+									"top": 421,
 									"width": 27.4599609375,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -6528,8 +6528,8 @@
 									},
 									"visible": null,
 									"font": "Arial;13;0",
-									"left": 446,
-									"top": 456,
+									"left": 460,
+									"top": 416,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -6549,8 +6549,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 406,
-									"top": 478,
+									"left": 417,
+									"top": 430,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -6568,7 +6568,7 @@
 								"$ref": "AAAAAAGOUj0IcPO7Xgo="
 							},
 							"lineStyle": 1,
-							"points": "361:371;480:583",
+							"points": "366:371;432:432;481:583",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGOUkAwpfUt5C8="
@@ -6600,12 +6600,12 @@
 										"$ref": "AAAAAAGOUkBTS/U9ze0="
 									},
 									"font": "Arial;13;0",
-									"left": 532,
-									"top": 477,
+									"left": 520,
+									"top": 448,
 									"width": 27.4599609375,
 									"height": 13,
-									"alpha": 1.5707963267948966,
-									"distance": 15,
+									"alpha": 1.8902452695009797,
+									"distance": 21.095023109728988,
 									"hostEdge": {
 										"$ref": "AAAAAAGOUkBTS/U+9d0="
 									},
@@ -6623,8 +6623,8 @@
 									},
 									"visible": null,
 									"font": "Arial;13;0",
-									"left": 559,
-									"top": 483,
+									"left": 541,
+									"top": 456,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -6644,8 +6644,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 518,
-									"top": 464,
+									"left": 497,
+									"top": 446,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -6663,7 +6663,7 @@
 								"$ref": "AAAAAAGOUj2f5fP5tkU="
 							},
 							"lineStyle": 1,
-							"points": "582:371;483:583",
+							"points": "579:371;512:456;483:583",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGOUkBTS/U/Cyc="
