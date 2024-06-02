@@ -21,6 +21,7 @@ public class ExecutionThreadSecondary extends Thread{
         System.out.println(this.getName() + " - STATE 1");
         synchronized (P6) {
             try {
+                Thread.sleep(5 * 500);
                 P6.wait();
             } catch (InterruptedException e) {
                 e.printStackTrace();

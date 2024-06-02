@@ -13,7 +13,7 @@ public class Main {
         Lock P9 = new ReentrantLock();
         Lock P10 = new ReentrantLock();
 
-        CountDownLatch T8 = new CountDownLatch(3);
+        CountDownLatch T8 = new CountDownLatch(4);
 
         Lab7App2.ExecutionThread thread1 = new Lab7App2.ExecutionThread(P9, T8, 2, 4, 4);
         Lab7App2.ExecutionThread thread3 = new Lab7App2.ExecutionThread(P10, T8, 2, 5, 5);

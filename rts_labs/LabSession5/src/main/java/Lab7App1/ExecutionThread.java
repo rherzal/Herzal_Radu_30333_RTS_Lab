@@ -33,7 +33,7 @@ public class ExecutionThread extends Thread{
 
     @Override
     public void run() {
-        while(true) {
+
             System.out.println(this.getName() + " - STATE 1");
             try {
                 this.P9.acquire(1);
@@ -70,6 +70,4 @@ public class ExecutionThread extends Thread{
             }
         }
 
-
-    }
 }

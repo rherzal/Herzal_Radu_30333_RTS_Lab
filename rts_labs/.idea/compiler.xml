@@ -13,5 +13,9 @@
         <module name="LabSession3" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="LabSession6" target="11" />
+      <module name="untitled" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>
